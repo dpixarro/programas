@@ -1,0 +1,12 @@
+[
+ {
+ "run": "20525221-5",
+ "nombre": "Diego",
+ "apellido": "Pizarro",
+ "direccion": "Canal Beagle",
+ "fono": 953329370,
+ "correo":"diego.pizarro49@inacapmail.cl",
+ "montoCredito": 2000,
+ "deuda":0,
+ "tipo": 3
+ }
